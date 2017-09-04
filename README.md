@@ -1,4 +1,10 @@
-# Dog_vs_Cat_Kaggle_Dataset
+# Dogs vs. Cat Kaggle Dataset
+
+<b>Requirements:</b>
+1. Python 3
+2. Tensorflow
+3. Numpy
+4. Tqdm
 
 This is an approach to distinguish between cats and dogs described <a href="https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/"> here</a>.
 To run this code, first download the `train` and `test` dataset from this <a href="https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data"> link</a>.
